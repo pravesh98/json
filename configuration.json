@@ -1,0 +1,68 @@
+{
+  "appId": 1234,
+  "workspaceId": 2345,
+  "tenantId": 1234,
+  "css": [
+    {
+      "primaryColor": "#0D98BA",
+      "secondarColor": "#FFFFFF"
+    }
+  ],
+  "component": [
+    {
+      "companyLogo": "",
+      "welcomeMsg": "",
+      "title": "Hey There",
+      "subtitle": "sample card",
+      "img": "",
+      "text": "",
+      "inputElements": [
+        {
+          "name": "",
+          "placeholder": "",
+          "inputType": "",
+          "submitLink": ""
+        }
+      ],
+      "href": ""
+    },
+    {
+      "companyLogo": "",
+      "welcomeMsg": "",
+      "title": "",
+      "subtitle": "",
+      "img": "",
+      "text": "",
+      "inputElements": [
+        {
+          "name": "",
+          "placeholder": "",
+          "inputType": "",
+          "submitLink": ""
+        }
+      ],
+      "href": ""
+    },
+    {
+      "companyLogo": "",
+      "welcomeMsg": "",
+      "title": "",
+      "subtitle": "",
+      "img": "",
+      "text": "",
+      "inputElements": [
+        {
+          "name": "",
+          "placeholder": "",
+          "inputType": "",
+          "submitLink": ""
+        }
+      ],
+      "href": ""
+    }
+  ],
+  "msgSupported": [
+  "text","emoji","gif","file","bot"
+  ]
+}
+
