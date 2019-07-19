@@ -4,8 +4,7 @@
   "tenantId": 1234,
   "css": [
     {
-      "primaryColor": "#0D98BA",
-      "secondarColor": "#FFFFFF"
+      "theme": "light-theme",
     }
   ],
   "component": [
