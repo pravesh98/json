@@ -11,10 +11,10 @@
     {
       "companyLogo": "",
       "welcomeMsg": "",
-      "title": "Hey There",
-      "subtitle": "sample card",
+      "title": "KOi Mil GAYA !!!",
+      "subtitle": "subtitle of these magic card",
       "img": "https://i.kym-cdn.com/photos/images/original/001/464/909/f55.gif",
-      "text": "",
+      "text": "Hey sup sup sup buddy?? ",
       "inputElements": [
         {
           "name": "",
@@ -28,10 +28,10 @@
     {
       "companyLogo": "",
       "welcomeMsg": "",
-      "title": "",
-      "subtitle": "",
-      "img": "",
-      "text": "",
+      "title": "Marvel Studio",
+      "subtitle": "marvel fans",
+      "img": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05_2.jpg",
+      "text": "This is sample text fro the marvel data content",
       "inputElements": [
         {
           "name": "",
@@ -40,14 +40,14 @@
           "submitLink": ""
         }
       ],
-      "href": ""
+      "href": "https://www.marvel.com/movies"
     },
     {
       "companyLogo": "",
       "welcomeMsg": "",
-      "title": "",
-      "subtitle": "",
-      "img": "",
+      "title": "Glabbr",
+      "subtitle": "glabbr gang bantai",
+      "img": "https://glabbr.com/assets/images/logo-glabbr.png",
       "text": "",
       "inputElements": [
         {
@@ -57,7 +57,7 @@
           "submitLink": ""
         }
       ],
-      "href": ""
+      "href": "https://glabbr.com/"
     }
   ],
   "msgSupported": [
