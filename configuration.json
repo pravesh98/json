@@ -7,6 +7,15 @@
       "theme": "light-theme"
     }
   ],
+  "conversationCard":"yes",
+  "welcomeCard":"yes",
+  "welcomeContent":{
+   "title":"We are Glabbr",
+    "logo":"https://glabbr.com/assets/images/logo-glabbr.png",
+    "helloMsg":"Hey Buddy",
+    "helloIcon":"http://icons.iconarchive.com/icons/google/noto-emoji-people-bodyparts/256/12050-waving-hand-icon.png",
+    "slogan":"We will be very happy to help you buddy"
+},
   "component": [
     {
       "companyLogo": "",
