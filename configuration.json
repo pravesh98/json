@@ -4,7 +4,7 @@
   "tenantId": 1234,
   "css": [
     {
-      "theme": "dark-theme"
+      "theme": "light-theme"
     }
   ],
   "component": [
