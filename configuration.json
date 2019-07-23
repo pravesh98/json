@@ -58,6 +58,23 @@
         }
       ],
       "href": "https://glabbr.com/"
+    },
+        {
+      "companyLogo": "",
+      "welcomeMsg": "",
+      "title": "Informative Data",
+      "subtitle": "subtitle of these magic card",
+      "img": "",
+      "text": "Hey sup sup sup buddy?? ",
+      "inputElements": [
+        {
+          "name": "",
+          "placeholder": "",
+          "inputType": "",
+          "submitLink": ""
+        }
+      ],
+      "href": ""
     }
   ],
   "msgSupported": [
